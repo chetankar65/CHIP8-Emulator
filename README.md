@@ -11,12 +11,14 @@ The emulator as of now just prints register values. Project was just to strength
 
 Screenshots of the two opcodes in action:
 
+Right now you can test with the two opcodes below:
 First loading into Vx register (Opcode: 0x6022):
 ![SC1](https://github.com/chetankar65/CHIP8-Emulator/assets/26086224/972bd6b8-f43f-40fc-aa75-3c9211ab5d47)
 
 Adding to Vx register (Opcode: 0x7022):
 ![SC2](https://github.com/chetankar65/CHIP8-Emulator/assets/26086224/ca3a086d-83a1-41b2-9871-c1db8317f6ad)
 
+Haven't tested other opcodes (in the near future)
 Ideally, we will load in all the opcodes from a .ch8 file. We can use a CHIP8 assembler to convert instructions into a .ch8 file
 and then load it into the program. I have not tested that and for now just tried with two opcodes.
 

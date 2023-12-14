@@ -11,8 +11,10 @@ The emulator as of now just prints register values. Project was just to strength
 
 Screenshots of the two opcodes in action:
 
-
+First loading into Vx register (Opcode: 0x6022):
 ![SC1](https://github.com/chetankar65/CHIP8-Emulator/assets/26086224/972bd6b8-f43f-40fc-aa75-3c9211ab5d47)
+
+Adding to Vx register (Opcode: 0x7022):
 ![SC2](https://github.com/chetankar65/CHIP8-Emulator/assets/26086224/ca3a086d-83a1-41b2-9871-c1db8317f6ad)
 
 Referred to CHIP8 documentation and some other articles online.

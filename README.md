@@ -11,8 +11,9 @@ The emulator as of now just prints register values. Project was just to strength
 
 Screenshots of the two opcodes in action:
 
-![SC2](https://github.com/chetankar65/CHIP8-Emulator/assets/26086224/ca3a086d-83a1-41b2-9871-c1db8317f6ad)
+
 ![SC1](https://github.com/chetankar65/CHIP8-Emulator/assets/26086224/972bd6b8-f43f-40fc-aa75-3c9211ab5d47)
+![SC2](https://github.com/chetankar65/CHIP8-Emulator/assets/26086224/ca3a086d-83a1-41b2-9871-c1db8317f6ad)
 
 Referred to CHIP8 documentation and some other articles online.
 
